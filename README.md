@@ -5,8 +5,6 @@ This piece of code will solve any Sudoku puzzle that is solvable, usually within
 * Once a game is chosen, the correct solution will print onto the terminal.<br />
 * The code will also let you know if the game is not solvable.
 
-The third precoded game is interesting to observe and see how it would play out.
-
 Here is an example of how an actual Sudoku game might look like when written in a Python array:
 
 ![Sudoku-image](https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2013/12/3/1386087536265/Sudoku2680hard.gif)
